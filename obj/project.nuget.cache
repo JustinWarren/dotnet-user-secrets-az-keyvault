@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+L+N+g/piz8pfnNSCdl5evg/rGR6OjPmDJ2JAvkD4NeBrbgzhc0xiTDkEbw+bzfDENBbBZqZ+kDKPb/ArFlkPw==",
+  "dgSpecHash": "gmLziv02g8fXDLGDyZ2HFP7yWIlNoHHP1GryDkUu9eROJip2y4Tih3SBi9f5qFHwzdI+x9S6kdTw7FJUfdyD6A==",
   "success": true,
-  "projectFilePath": "/Users/justinwarren/Desktop/ch6-azure-wlkthrough/dotnet-user-secrets-az-keyvault/api-user-secrets.csproj",
+  "projectFilePath": "/Users/justinwarren/Desktop/ch-6-azure-walkthrough/dotnet-user-secrets-az-keyvault/api-user-secrets.csproj",
   "expectedPackageFiles": [
     "/Users/justinwarren/.nuget/packages/microsoft.azure.keyvault/3.0.5/microsoft.azure.keyvault.3.0.5.nupkg.sha512",
     "/Users/justinwarren/.nuget/packages/microsoft.azure.keyvault.webkey/3.0.5/microsoft.azure.keyvault.webkey.3.0.5.nupkg.sha512",
